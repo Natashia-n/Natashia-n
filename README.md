@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there, I'm Natashia Sithole 👋
 
-<!--
-**Natashia-n/Natashia-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Who Am I
 
-Here are some ideas to get you started:
+Aspiring Software Engineer & Developer passionate about building real-world software solutions and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+
+Building a fully functional web and mobile-based recruitment & career fair management system.
+
+### 🛠️ Tools & Technologies
+
+JavaScript • HTML • CSS • Flask API • SQLite • Git & GitHub • VS Code
+
+### 📫 Reach Me
+
+GitHub: Natashia-n (Sithole Nkoka Natashia)
+
+LinkedIn: Natashia Sithole | LinkedIn
+
+Email: sitholenkoka@gmail.com
+

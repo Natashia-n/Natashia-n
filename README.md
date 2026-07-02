@@ -64,7 +64,7 @@ I'm currently focused on becoming a **Full-Stack .NET Software Engineer**, build
 
 ## 📌 Featured Projects
 
-* 🎓 Career Fair Management System *(Group prject)*
+* 🎓 Career Fair Management System *(Group project)*
 * 🏛️ Municipal Service Request Portal *(In Progress)*
 * 📅 Appointment Booking System *(Planned)*
 

@@ -10,7 +10,7 @@ Building a fully functional web and mobile-based recruitment & career fair manag
 
 ### 🛠️ Tools & Technologies
 
-JavaScript • HTML • CSS • Flask API • SQLite • Git & GitHub • VS Code
+JavaScript • HTML • CSS • Python with Fast API • SQLite • Git & GitHub • VS Code 
 
 ### 📫 Reach Me
 

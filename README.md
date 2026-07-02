@@ -36,7 +36,6 @@ I'm currently focused on becoming a **Full-Stack .NET Software Engineer**, build
 * ASP.NET Core (Learning)
 * React
 * FastAPI
-* Entity Framework Core (Learning)
 * REST APIs
 
 ### Databases
@@ -50,7 +49,6 @@ I'm currently focused on becoming a **Full-Stack .NET Software Engineer**, build
 * GitHub
 * Visual Studio
 * Visual Studio Code
-* Postman
 
 ---
 
@@ -61,17 +59,14 @@ I'm currently focused on becoming a **Full-Stack .NET Software Engineer**, build
 * Design Patterns
 * Unit Testing
 * Entity Framework Core
-* Azure Fundamentals
 
 ---
 
 ## 📌 Featured Projects
 
-* 🎓 Career Fair Management System
+* 🎓 Career Fair Management System *(Group prject)*
 * 🏛️ Municipal Service Request Portal *(In Progress)*
 * 📅 Appointment Booking System *(Planned)*
-* 📂 Document Management System *(Planned)*
-* 👥 Employee Leave Management System *(Planned)*
 
 ---
 

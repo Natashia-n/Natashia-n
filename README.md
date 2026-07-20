@@ -12,7 +12,6 @@ I'm currently focused on becoming a **Full-Stack .NET Software Engineer**, build
 
 ## 🚀 Current Projects
 
-* 🏛️ Building a Municipal Service Request Portal using **ASP.NET Core** and **React**
 * 🎓 Developing a Career Fair Management System
 * 📚 Learning **C#**, **ASP.NET Core**, **TypeScript**, and software architecture
 * 🧠 Preparing for graduate software engineering opportunities
@@ -27,8 +26,8 @@ I'm currently focused on becoming a **Full-Stack .NET Software Engineer**, build
 * JavaScript
 * TypeScript
 * Python
-* HTML5
-* CSS3
+* HTML
+* CSS
 * SQL
 
 ### Frameworks & Technologies
@@ -65,8 +64,6 @@ I'm currently focused on becoming a **Full-Stack .NET Software Engineer**, build
 ## 📌 Featured Projects
 
 * 🎓 Career Fair Management System *(Group project)*
-* 🏛️ Municipal Service Request Portal *(In Progress)*
-* 📅 Appointment Booking System *(Planned)*
 
 ---
 

@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Johannesburg with a passion 
 
 I enjoy transforming ideas into software that solves practical problems while continuously improving my knowledge of software design, clean architecture, and modern development practices.
 
-I'm currently focused on becoming a **Full-Stack .NET Software Engineer**, building projects that strengthen my expertise in backend development, APIs, databases, and modern web technologies.
+I'm currently focused on becoming a **Full-Stack Software Engineer**, building projects that strengthen my expertise in backend development, APIs, databases, and modern web technologies.
 
 ---
 

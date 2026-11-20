@@ -8,8 +8,6 @@ I enjoy turning ideas into software that solves practical problems, and I keep i
 
 I'm now looking for a **graduate software engineering role** where I can grow into a **Full-Stack Software Engineer**, with strengths in backend development, APIs, databases and modern web and mobile technologies.
 
-🏆 UJENIUS academic top 1% (2024) · Distinctions in Computer Science, Informatics and Applied Maths · Top 9 at the Motus Xponential Hackathon
-
 ---
 
 ## 🚀 What I'm Up To

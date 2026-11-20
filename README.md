@@ -2,19 +2,21 @@
 
 ## 💻 About Me
 
-I'm a Computer Science student at the University of Johannesburg with a passion for software engineering and building scalable, real-world applications.
+I'm a recent **BSc IT (Computer Science and Informatics) graduate** from the University of Johannesburg, based in Johannesburg, with a passion for software engineering and building scalable, real-world applications.
 
-I enjoy transforming ideas into software that solves practical problems while continuously improving my knowledge of software design, clean architecture, and modern development practices.
+I enjoy turning ideas into software that solves practical problems, and I keep improving my knowledge of software design, clean architecture and modern development practices.
 
-I'm currently focused on becoming a **Full-Stack Software Engineer**, building projects that strengthen my expertise in backend development, APIs, databases, and modern web technologies.
+I'm now looking for a **graduate software engineering role** where I can grow into a **Full-Stack Software Engineer**, with strengths in backend development, APIs, databases and modern web and mobile technologies.
+
+🏆 UJENIUS academic top 1% (2024) · Distinctions in Computer Science, Informatics and Applied Maths · Top 9 at the Motus Xponential Hackathon
 
 ---
 
-## 🚀 Current Projects
+## 🚀 What I'm Up To
 
-* 🎓 Developing a Career Fair Management System
-* 📚 Learning **C#**, **ASP.NET Core**, **TypeScript**, and software architecture
-* 🧠 Preparing for graduate software engineering opportunities
+* 🎓 Applying to graduate programmes across South Africa
+* 🧩 Building and polishing my portfolio, including a new site in plain HTML, CSS and JavaScript
+* 📚 Learning **C#**, **ASP.NET Core**, **TypeScript** and software architecture
 
 ---
 
@@ -22,30 +24,34 @@ I'm currently focused on becoming a **Full-Stack Software Engineer**, building p
 
 ### Languages
 
-* C#
+* Java
 * JavaScript
-* TypeScript
 * Python
+* C#
 * HTML
 * CSS
 * SQL
 
 ### Frameworks & Technologies
 
-* ASP.NET Core (Learning)
 * React
+* React Native (Expo)
 * FastAPI
+* JavaFX
 * REST APIs
+* ASP.NET Core (Learning)
 
 ### Databases
 
+* MySQL
 * SQLite
 * SQL Server (Learning)
 
-### Tools
+### Tools & DevOps
 
 * Git
-* GitHub
+* GitHub, GitHub Pages and GitHub Actions
+* EAS Build (Android APK deployment)
 * Visual Studio
 * Visual Studio Code
 
@@ -63,7 +69,11 @@ I'm currently focused on becoming a **Full-Stack Software Engineer**, building p
 
 ## 📌 Featured Projects
 
-* 🎓 Career Fair Management System *(Group project)*
+* 🎓 **OpportunityNav** *(Team project, Team68 / CodeCatalysts)*: a full-stack career fair and job portal platform with a React web app, a React Native mobile app, a FastAPI backend and SQLite. It includes role-based access, virtual career fair booths, job applications and an Android APK deployed with EAS Build.
+* 🚑 **Graph-Based EMS Route Optimisation System** *(Java, JavaFX)*: Dijkstra's algorithm for shortest-path routing and k-NN for traffic analysis, with custom graph data structures.
+* 🛒 **E-Commerce Website** *(HTML, CSS, JavaScript, C#, SQL)*: product listings, user registration and a shopping cart backed by a database.
+* 🧠 **Vehicle Acquisition Propensity Model** *(Motus Xponential Hackathon, Top 9)*: a machine learning pipeline using LightGBM classifiers and probability calibration.
+* ☀️ **Daylight**: a day-planner web app deployed on GitHub Pages.
 
 ---
 

@@ -79,7 +79,7 @@ I'm now looking for a **graduate software engineering role** where I can grow in
 
 📧 **Email:** [sitholenkoka@gmail.com](mailto:sitholenkoka@gmail.com)
 
-💼 **LinkedIn:** [www.linkedin.com/in/natashia-sithole](http://www.linkedin.com/in/natashia-sithole)
+💼 **LinkedIn:** [www.linkedin.com/in/natashia-sithole](https://www.linkedin.com/in/natashia-sithole-8367192aa/)
 
 🐙 **GitHub:** https://github.com/Natashia-n
 
